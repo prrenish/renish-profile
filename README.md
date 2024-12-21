@@ -2,9 +2,9 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/renish-profile/)
+### [live preview](https://prrenish.github.io/renish-profile/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/renish-profile/)
+[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://prrenish.github.io/renish-profile/)
 
 ### Features
 
@@ -18,7 +18,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/renish-profile.git</pre>
+<pre>git clone https://github.com/prrenish/renish-profile.git</pre>
  
 Install required dependencies
 
