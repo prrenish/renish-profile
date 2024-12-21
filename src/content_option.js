@@ -12,7 +12,7 @@ const introdata = {
         third: "I am a solution expert",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "/assets/hacker-image.jpeg",
+    your_img_url: "https://raw.githubusercontent.com/prrenish/renish-profile/refs/heads/gh-pages/assets/hacker-image.jpeg",
 };
 
 const dataabout = {
