@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/renish-profile/static/css/main.507a3381.css",
+    "main.js": "/renish-profile/static/js/main.681ff72a.js",
+    "index.html": "/renish-profile/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.681ff72a.js"
+  ]
+}
